@@ -7,6 +7,7 @@
   pip install pandas
   pip install numpy
 
+
 ## Run steamlit app
   ```bash
   streamlit run dashboard.py
