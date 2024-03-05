@@ -1,9 +1,6 @@
-# Nama Proyek
+# Dicoding Collection Dashboard
 
-Deskripsi singkat tentang proyekmu. Ceritakan apa yang ingin kamu capai dan mengapa proyek ini penting.
-
-## Daftar Isi
-
+## Setup environment
 - [Instalasi](#instalasi)
 - [Penggunaan](#penggunaan)
 - [Kontribusi](#kontribusi)
